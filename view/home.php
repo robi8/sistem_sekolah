@@ -6,6 +6,9 @@
 	ob_start();
 	error_reporting(0);
 	include('../model/head.php');
+	include('../config/connection.php');
+	include('../library/sequence.php');
+	include('../library/datetime.php');
 ?>
 
 <body

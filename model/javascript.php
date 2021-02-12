@@ -21,3 +21,7 @@
 	<script src="../assets/plugins/summernote/summernote.js"></script>
 	<script src="../assets/js/pages/summernote/summernote-data.js"></script>
 	<!-- end js include path -->
+	<!-- data tables -->
+    <script src="../assets/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="../assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.js"></script>
+    <script src="../assets/js/pages/table/table_data.js"></script>

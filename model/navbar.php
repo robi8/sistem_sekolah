@@ -42,7 +42,7 @@
 							</a>
 							<ul class="dropdown-menu pull-left">
 								<li class="dropdown-submenu">
-									<a href="#" class="nav-link nav-toggle"> <i class="fa fa-user"></i>
+									<a href="home.php?page=proses-penerimaan-siswa-baru" class="nav-link nav-toggle"> <i class="fa fa-user"></i>
 										<span class="title">Proses Penerimaan Siswa Baru</span>
 									</a>
 								</li>

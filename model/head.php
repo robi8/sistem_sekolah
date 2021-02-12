@@ -14,6 +14,9 @@
 	<!--bootstrap -->
 	<link href="../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="../assets/plugins/summernote/summernote.css" rel="stylesheet">
+	<!-- data tables -->
+    <link href="../assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.css" rel="stylesheet"
+        type="text/css" />
 	<!-- Material Design Lite CSS -->
 	<link rel="stylesheet" href="../assets/plugins/material/material.min.css">
 	<link rel="stylesheet" href="../assets/css/material_style.css">
